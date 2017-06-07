@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/home/leonnel/Dokumente/Jee Development/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1481991305.index
+1682440940.index
+2089348824.index
+2788492865.index
+4146222504.index
